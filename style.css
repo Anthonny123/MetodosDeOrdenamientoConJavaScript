@@ -1,0 +1,50 @@
+body{
+	margin: 0px;
+	text-align: center;
+
+}
+
+.datos{
+	position: relative;
+	width: 600px;
+	height: 384px;
+	margin: 0 auto;
+}
+
+.cuadro{
+	width: 28px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	background-color: #58b7ff;
+	transition: 0.2s all ease;
+}
+
+.personalizado{
+	margin: auto;
+	font-size: 20px;
+}
+
+.botones{
+	display: flex;
+	text-align: center;
+	margin-top: 60px;
+
+}
+
+.boton{
+	text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+.generarArray{
+	margin: auto;
+}
+.quickSort{
+	margin: auto;
+}
